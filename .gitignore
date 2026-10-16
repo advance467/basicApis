@@ -1,0 +1,4 @@
+docs/
+books.db
+__pycache__/
+*.pyc
